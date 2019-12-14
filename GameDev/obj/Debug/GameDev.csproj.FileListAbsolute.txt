@@ -1,0 +1,51 @@
+c:\users\john\documents\visual studio 2015\Projects\GameDev\GameDev\bin\Debug\GameDev.exe.config
+c:\users\john\documents\visual studio 2015\Projects\GameDev\GameDev\bin\Debug\GameDev.exe
+c:\users\john\documents\visual studio 2015\Projects\GameDev\GameDev\bin\Debug\GameDev.pdb
+c:\users\john\documents\visual studio 2015\Projects\GameDev\GameDev\obj\Debug\GameDev.csprojResolveAssemblyReference.cache
+c:\users\john\documents\visual studio 2015\Projects\GameDev\GameDev\obj\Debug\GameDev.Form1.resources
+c:\users\john\documents\visual studio 2015\Projects\GameDev\GameDev\obj\Debug\GameDev.Properties.Resources.resources
+c:\users\john\documents\visual studio 2015\Projects\GameDev\GameDev\obj\Debug\GameDev.csproj.GenerateResource.Cache
+c:\users\john\documents\visual studio 2015\Projects\GameDev\GameDev\obj\Debug\GameDev.exe
+c:\users\john\documents\visual studio 2015\Projects\GameDev\GameDev\obj\Debug\GameDev.pdb
+C:\Users\John.John-PC\Documents\Visual Studio 2015\GameDev\GameDev\bin\Debug\GameDev.exe.config
+C:\Users\John.John-PC\Documents\Visual Studio 2015\GameDev\GameDev\obj\Debug\GameDev.exe
+C:\Users\John.John-PC\Documents\Visual Studio 2015\GameDev\GameDev\obj\Debug\GameDev.pdb
+C:\Users\John.John-PC\Documents\Visual Studio 2015\GameDev\GameDev\bin\Debug\GameDev.exe
+C:\Users\John.John-PC\Documents\Visual Studio 2015\GameDev\GameDev\bin\Debug\GameDev.pdb
+C:\Users\John.John-PC\Documents\Visual Studio 2015\GameDev\GameDev\obj\Debug\GameDev.csprojResolveAssemblyReference.cache
+C:\Users\John.John-PC\Documents\Visual Studio 2015\GameDev\GameDev\obj\Debug\GameDev.Form1.resources
+C:\Users\John.John-PC\Documents\Visual Studio 2015\GameDev\GameDev\obj\Debug\GameDev.Properties.Resources.resources
+C:\Users\John.John-PC\Documents\Visual Studio 2015\GameDev\GameDev\obj\Debug\GameDev.csproj.GenerateResource.Cache
+C:\Users\John.John-PC\Documents\Visual Studio 2015\GameDev\GameDev\obj\Debug\GameDev.Form_Message.resources
+C:\Users\John.John-PC\Documents\Visual Studio 2015\GameDev\GameDev\obj\Debug\GameDev.Form_Save.resources
+C:\Users\John.John-PC\Documents\Visual Studio 2015\GameDev\GameDev\obj\Debug\GameDev.Form_Load.resources
+C:\Users\John.John-PC\Documents\Visual Studio 2015\GameDev\GameDev\obj\Debug\GameDev.FormTransparent.resources
+C:\Users\John.John-PC\Documents\Visual Studio 2015\GameDev\GameDev\obj\Debug\GameDev.TitleForm.resources
+C:\Users\John.John-PC\Documents\Visual Studio 2015\GameDev\GameDev\obj\Debug\GameDev.EmployeeForm.resources
+C:\Users\John.John-PC\Documents\Visual Studio 2015\GameDev\GameDev\obj\Debug\GameDev.HireForm.resources
+D:\download\내문서 백업\프로그래밍(한정모)\VisualStudio2015\GameDev\GameDev\bin\Debug\GameDev.exe.config
+D:\download\내문서 백업\프로그래밍(한정모)\VisualStudio2015\GameDev\GameDev\obj\Debug\GameDev.exe
+D:\download\내문서 백업\프로그래밍(한정모)\VisualStudio2015\GameDev\GameDev\obj\Debug\GameDev.pdb
+C:\Users\John\Documents\Visual Studio 2015\Projects\GameDev\GameDev\obj\Debug\GameDev.EmployeeForm.resources
+C:\Users\John\Documents\Visual Studio 2015\Projects\GameDev\GameDev\obj\Debug\GameDev.HireForm.resources
+C:\Users\John\Documents\Visual Studio 2015\Projects\GameDev\GameDev\obj\Debug\GameDev.FormTransparent.resources
+C:\Users\John\Documents\Visual Studio 2015\Projects\GameDev\GameDev\obj\Debug\GameDev.Form_Load.resources
+C:\Users\John\Documents\Visual Studio 2015\Projects\GameDev\GameDev\obj\Debug\GameDev.Form_Message.resources
+C:\Users\John\Documents\Visual Studio 2015\Projects\GameDev\GameDev\obj\Debug\GameDev.Form_Save.resources
+C:\Users\John\Documents\Visual Studio 2015\Projects\GameDev\GameDev\obj\Debug\GameDev.TitleForm.resources
+C:\Users\John\Downloads\Projects(C샵)\GameDev\GameDev\bin\Debug\GameDev.exe.config
+C:\Users\John\Downloads\Projects(C샵)\GameDev\GameDev\obj\Debug\GameDev.exe
+C:\Users\John\Downloads\Projects(C샵)\GameDev\GameDev\obj\Debug\GameDev.pdb
+C:\Users\John\Downloads\Projects(C샵)\GameDev\GameDev\bin\Debug\GameDev.exe
+C:\Users\John\Downloads\Projects(C샵)\GameDev\GameDev\bin\Debug\GameDev.pdb
+C:\Users\John\Downloads\Projects(C샵)\GameDev\GameDev\obj\Debug\GameDev.csprojResolveAssemblyReference.cache
+C:\Users\John\Downloads\Projects(C샵)\GameDev\GameDev\obj\Debug\GameDev.EmployeeForm.resources
+C:\Users\John\Downloads\Projects(C샵)\GameDev\GameDev\obj\Debug\GameDev.Form1.resources
+C:\Users\John\Downloads\Projects(C샵)\GameDev\GameDev\obj\Debug\GameDev.HireForm.resources
+C:\Users\John\Downloads\Projects(C샵)\GameDev\GameDev\obj\Debug\GameDev.FormTransparent.resources
+C:\Users\John\Downloads\Projects(C샵)\GameDev\GameDev\obj\Debug\GameDev.Form_Load.resources
+C:\Users\John\Downloads\Projects(C샵)\GameDev\GameDev\obj\Debug\GameDev.Form_Message.resources
+C:\Users\John\Downloads\Projects(C샵)\GameDev\GameDev\obj\Debug\GameDev.Form_Save.resources
+C:\Users\John\Downloads\Projects(C샵)\GameDev\GameDev\obj\Debug\GameDev.Properties.Resources.resources
+C:\Users\John\Downloads\Projects(C샵)\GameDev\GameDev\obj\Debug\GameDev.TitleForm.resources
+C:\Users\John\Downloads\Projects(C샵)\GameDev\GameDev\obj\Debug\GameDev.csproj.GenerateResource.Cache
